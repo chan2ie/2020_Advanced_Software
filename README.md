@@ -37,4 +37,4 @@ Each folder follows naming rules described below.
 </pre>
 
 ## Please be aware
-This repository is created to archive my past works. I welcome junior students who take the same class to refer to my codes. However, I strongly refuse to copying it and I am not responsible for any disadvantages you might get from copying it.
+This repository is created to archive my past works. I welcome junior students who take the same class to refer to my codes. However, I strongly oppose copying it and I am not responsible for any disadvantages you might get from copying it.
